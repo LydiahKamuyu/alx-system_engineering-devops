@@ -1,2 +1,2 @@
-#!/bin/bash
-!:mime School
+0       string School This is a school file
+!:mime text/School
